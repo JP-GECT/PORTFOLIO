@@ -15,9 +15,10 @@ const Hero = () => {
         <div>
           <h1 className={`${styles.heroHeadText}`}>Hi, I'm <span className='text-[#915eff]'>JOSEPH</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>i am a front end web developer<br className='sm:block hidden'/>
-          and i am also working on three.js</p>
+          and i am also working on three.js development</p>
         </div>
       </div>
+        <ComputersCanvas />
       
       </section>
   )
