@@ -1,0 +1,11 @@
+Model Information:
+* title:	ibm 5150
+* source:	https://sketchfab.com/3d-models/ibm-5150-3001e858df5c41c3bce8d50ff4a02903
+* author:	cyclonicninja69 (https://sketchfab.com/cyclonicninja69)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ibm 5150" (https://sketchfab.com/3d-models/ibm-5150-3001e858df5c41c3bce8d50ff4a02903) by cyclonicninja69 (https://sketchfab.com/cyclonicninja69) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
