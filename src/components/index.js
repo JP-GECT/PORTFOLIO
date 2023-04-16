@@ -3,6 +3,7 @@ import Hero from './Hero';
 import Navbar from './Navbar';
 import About from './About';
 import Tech from './Tech';
+import Mine from './Mine';
 
 import Works from './Works';
 import Contact from './Contact';
@@ -12,7 +13,7 @@ export {
   Navbar,
   About,
   Tech,
- 
+  Mine,
   Works,
   Contact,
   EarthCanvas, 
