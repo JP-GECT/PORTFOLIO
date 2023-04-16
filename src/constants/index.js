@@ -1,8 +1,5 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
+  layers,
     javascript,
     html,
     css,
@@ -37,19 +34,19 @@ import {
   const services = [
     {
       title: "Web Developer",
-      icon: web,
+      icon: layers,
     },
     {
       title: "React Developer",
-      icon: mobile,
+      icon: layers,
     },
     {
       title: "Web Extension Developer",
-      icon: backend,
+      icon: layers,
     },
     {
       title: "Python Programmer",
-      icon: creator,
+      icon: layers,
     },
   ];
   
