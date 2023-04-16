@@ -13,11 +13,11 @@ const WorkCard = ({index,name,description,image, source_code_link}) => {
       className='w-full p-[1px] rounded-[20px] shadow-card'
       >
         <div options = {{max:45, scale:1, speed:450}} className="
-         bg-tertiary rounded-[20px] py-5 px-12 min-h-[300px] flex justify-evenly items-start flex-col
+         bg-tertiary rounded-[20px] py-5 px-12 min-h-[500px] flex justify-evenly items-start flex-col
         ">
           <div className="basis-1 w-full">
 
-          <img src={image} alt={name} className="rounded-[10px] bg-white w-full"></img>
+          <img src={image} alt={name} className="rounded-[10px] bg-white w-full h-full"></img>
           </div>
           <h2 className='text-[24px] text-white mb-2 mt-1  font-bold'>{name}</h2>
           <p className="text-[16px] basis-2">{description}</p>

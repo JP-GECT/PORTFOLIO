@@ -25,6 +25,11 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import pizza from "./pizze.png";
+import tic from "./tic.png";
+import cart from "./cart.png";
+import webscope from "./webscope.png";
+
 export {
   logo,
   backend,
@@ -51,4 +56,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  
+  cart,
+  pizza,
+  webscope,
+  tic,
 };

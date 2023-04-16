@@ -4,14 +4,11 @@ import {
     creator,
     web,
     javascript,
-    typescript,
     html,
     css,
     reactjs,
-    redux,
     tailwind,
     nodejs,
-    mongodb,
     git,
     figma,
     docker,
@@ -19,6 +16,10 @@ import {
     jobit,
     tripguide,
     threejs,
+    pizza,
+    tic,
+    webscope,
+    cart,
   } from "../assets";
   
   export const navLinks = [
@@ -103,66 +104,32 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Pizza site",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mongodb",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
+        "Web-based platform to display different types of pizzas offered by a restaurent",
+      image: pizza,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Tic-Tac-Toe",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
+        "A simple tic tac toe game in which we can go back to previous steps also",
+      image: tic,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Shopping Site",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
+        "Not a complete website, can be used to display different products offered by an online shopping site",
+      image: cart,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "WebScope",
+      description:
+        "A web extension to display the reading time and number of external links to other websites",
+      
+      image: webscope,
       source_code_link: "https://github.com/",
     },
   ];
