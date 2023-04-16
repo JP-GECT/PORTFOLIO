@@ -115,14 +115,14 @@ import {
       description:
         "A simple tic tac toe game in which we can go back to previous steps also",
       image: tic,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/JP-GECT/TIC-TAC-TOE-GAME.git",
     },
     {
       name: "Shopping Site",
       description:
         "Not a complete website, can be used to display different products offered by an online shopping site",
       image: cart,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/JP-GECT/shoppingsite.git",
     },
     {
       name: "WebScope",
@@ -130,7 +130,7 @@ import {
         "A web extension to display the reading time and number of external links to other websites",
       
       image: webscope,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/JP-GECT/WebScope.git",
     },
   ];
   
